@@ -1,0 +1,19 @@
+
+#color{
+    height: 600px;
+    background: url(../background.jfif);
+    background-size: cover;
+    
+}
+#cc{
+    background-color: rgb(238, 234, 234);
+    margin-left: 10px;
+}
+
+.list-unstyled .list-link:hover{
+    text-decoration: underline;
+}
+
+.footer-copyright .cp:hover{
+    text-decoration: underline;
+}
